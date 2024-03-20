@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Sharma
-- 👀 I’m interested in Data Analysis, Business Analysis and Data Science
-- 🌱 I’m currently pursuing my Masters in Data Analytics Engineering and I am looking for Full Time opportunities for the position of Data Analyst and Business Analyst. 
+- 👀 I’m interested in Business Intelligence, Business Analysis and Data Analytics
+- 🌱 I’m currently pursuing my Masters in Data Analytics Engineering and I am looking for Full Time opportunities for the position of Business Intelligence, Data Analyst and Business Analyst. 
 - 📫 You can reach out to me via Email - sharma.ashis@northeastern.edu
 
 <!---
